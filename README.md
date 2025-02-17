@@ -1,7 +1,7 @@
-jika ketika di clone tidak jalan mohon pake link yang ini:
-github BE : https://github.com/CyanoCream/travel-be
-github FE : https://github.com/CyanoCream/travel_fe
-
+```bash
+link github BE : https://github.com/CyanoCream/travel-be
+link github FE : https://github.com/CyanoCream/travel_fe
+```
 # Travel Booking System
 
 This repository contains two projects:
